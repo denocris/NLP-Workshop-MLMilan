@@ -1,6 +1,6 @@
 # Natural Language Processing Workshop - Machine Learning Milan
 
-This workshop was supported by [Machine Learning Milan](https://twitter.com/ML_Milano" target="_blank) and [IAML](https://twitter.com/iaml_it). The aim is to show two NLP use cases using the most recent algorithms and libraries available (May 2020).
+This workshop was supported by [Machine Learning Milan](https://twitter.com/ML_Milano "title" target="_blank") and [IAML](https://twitter.com/iaml_it). The aim is to show two NLP use cases using the most recent algorithms and libraries available (May 2020).
 
 [Machine Learning Milan](https://twitter.com/ML_Milano)
 

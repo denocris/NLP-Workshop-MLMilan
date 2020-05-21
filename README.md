@@ -9,8 +9,8 @@ In the first session, after a brief introduction to the Transformer library by H
 During the second session, Andrea will introduce automatic summarization and focus on two different methods. He will build a version of TextRank to extract the most important sentences from a document. He will then examine Encoder-Decoder Transformer architectures and generate summaries using BART, a sequence-to-sequence denoising autoencoder Transformer model which can be seen as a generalization of its more famous predecessors such as BERT and GPT.
 
 
-Cristiano owns a Ph.D. in theoretical physicist and he actively working in Deep Learning for 4 years. He is also a TEDx speaker (here is talk about AI, Humans and their future). Here is contacts
+Cristiano owns a Ph.D. in theoretical physicist and he actively working in Deep Learning for 4 years. He is also a TEDx speaker (here is talk about AI, Humans and their future). Here is contacts (TO DO)
 
-Andrea owns a Ph.D. in astrophysics... 
+Andrea owns a Ph.D. in astrophysics... (TO DO)
 
 For any doutbs or questions feel free to contact us! 

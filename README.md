@@ -1,6 +1,6 @@
 # Natural Language Processing Workshop - Machine Learning Milan
 
-This workshop was supported by [Machine Learning Milan](https://twitter.com/ML_Milano) and [IAML](https://twitter.com/iaml_it). The aim is to show two NLP use cases using the most recent algorithms and libraries available (May 2020).
+This workshop was supported by [Machine Learning Milan](https://twitter.com/ML_Milano), [IAML](https://twitter.com/iaml_it) and [AINDO](http://www.aindo.ai/). The aim is to show two NLP use cases using the most recent algorithms and libraries available (May 2020).
 
 Authors: Andrea Gatto ([LinkedIn](https://www.linkedin.com/in/andrea-gatto/)) and Cristiano De Nobili ([LinkedIn](https://www.linkedin.com/in/cristiano-de-nobili/), [Twitter](https://twitter.com/denocris))
 

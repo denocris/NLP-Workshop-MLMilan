@@ -15,4 +15,4 @@ Cristiano holds a Ph.D. in Theoretical Physics ([SISSA](https://twitter.com/Siss
 
 Andrea obtained his Ph.D. in Theoretical Astrophysics at the Max Planck Institute for Astrophysics in Munich. He worked as Software Developer and as Data Scientist in different business areas. Currently, he builds NLP models via Deep Learning for Bixby, Samsung's virtual assistant.
 
-For any doubts or questions feel free to contact us!
+For any doubts or questions feel free to contact us! 
